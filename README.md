@@ -1,6 +1,6 @@
 ## Olá! 😁
 
-- 😎 Atualmente trabalho com C#
+- 😎 Atualmente trabalho com .NET e Flutter
 - 👨‍💻 Cursando Ciências Da Computação
 
 <div align="center">
